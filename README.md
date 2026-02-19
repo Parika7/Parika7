@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Ari</h1>
+<h1 align="center">Hi 👋, I'm Parika</h1>
 <h3 align="center">AI/ML Engineer | Building Intelligent Systems | RAG • LLMs • Azure</h3>
 
 <p align="center">
