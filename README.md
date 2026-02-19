@@ -53,7 +53,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parika7&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
@@ -70,15 +70,6 @@
 - Feature engineering + imbalance handling
 - Production-ready ML pipeline
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parika7&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -87,13 +78,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" />
-</p>
-
----
 
 <h3 align="center">⚡ "Building AI that actually ships to production."</h3>
